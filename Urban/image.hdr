@@ -1,0 +1,11 @@
+ENVI
+samples = 307
+lines = 307
+bands = 162
+header offset = 0
+file type = ENVI Standard
+data type = 2
+interleave = bsq
+byte order = 0
+band names = { band 5 , band 6 , band 7 , band 8 , band 9 , band 10 , band 11 , band 12 , band 13 , band 14 , band 15 , band 16 , band 17 , band 18 , band 19 , band 20 , band 21 , band 22 , band 23 , band 24 , band 25 , band 26 , band 27 , band 28 , band 29 , band 30 , band 31 , band 32 , band 33 , band 34 , band 35 , band 36 , band 37 , band 38 , band 39 , band 40 , band 41 , band 42 , band 43 , band 44 , band 45 , band 46 , band 47 , band 48 , band 49 , band 50 , band 51 , band 52 , band 53 , band 54 , band 55 , band 56 , band 57 , band 58 , band 59 , band 60 , band 61 , band 62 , band 63 , band 64 , band 65 , band 66 , band 67 , band 68 , band 69 , band 70 , band 71 , band 72 , band 73 , band 74 , band 75 , band 77 , band 78 , band 79 , band 80 , band 81 , band 82 , band 83 , band 84 , band 85 , band 86 , band 88 , band 89 , band 90 , band 91 , band 92 , band 93 , band 94 , band 95 , band 96 , band 97 , band 98 , band 99 , band 100 , band 112 , band 113 , band 114 , band 115 , band 116 , band 117 , band 118 , band 119 , band 120 , band 121 , band 122 , band 123 , band 124 , band 125 , band 126 , band 127 , band 128 , band 129 , band 130 , band 131 , band 132 , band 133 , band 134 , band 135 , band 154 , band 155 , band 156 , band 157 , band 158 , band 159 , band 160 , band 161 , band 162 , band 163 , band 164 , band 165 , band 166 , band 167 , band 168 , band 169 , band 170 , band 171 , band 172 , band 173 , band 174 , band 175 , band 176 , band 177 , band 178 , band 179 , band 180 , band 181 , band 182 , band 183 , band 184 , band 185 , band 186 , band 187 , band 188 , band 189 , band 190 , band 191 , band 192 , band 193 , band 194 , band 195 , band 196 , band 197 }
+default bands = { 49 , 31 , 6 }
